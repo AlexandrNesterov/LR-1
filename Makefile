@@ -1,2 +1,2 @@
 all:
-    gcc Laboratornaya1 -o hello
+    gcc Source.cpp -o hello
