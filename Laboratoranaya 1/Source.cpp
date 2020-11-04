@@ -1,8 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main() {
+	//Ввести 10 целых чисел вывести минимальную по абсолютной величине разность соседних чисел
 	int a[10];
-
 	for (int i = 0; i < 10; i++)
 	{
 		printf("%d: ", i + 1);
